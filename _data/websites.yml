@@ -1,2 +1,5 @@
 - name: "Circus: A secure and intelligent cloud orchestration platform"
   url: /circus
+
+- name: "Redcell: Advanced Mesos cluster configuration and deployment via Ansible"
+  url: https://github.com/OGNITIO/redcell
