@@ -3,3 +3,7 @@
 
 - name: "Redcell: Advanced Mesos cluster configuration and deployment via Ansible"
   url: https://github.com/OGNITIO/redcell
+
+- name: "Machine learning models and algorithms implementation in C++"
+  url: https://github.com/rzagabe/ml-models
+
