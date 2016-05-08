@@ -20,6 +20,7 @@ consequences of personal and passionate readings.
 
 * [LinkedIn](https://fr.linkedin.com/in/lucien-zagabe-51899b74)
 * [Twitter](https://twitter.com/rzagabe): [@rzagabe](https://twitter.com/rzagabe)
+* [Evernotes](https://www.evernote.com/pub/luz325/rzagabe) (clippings/references/citations)
 * [Github](https://github.com/rzagabe):
   [repositories](https://github.com/rzagabe?tab=repositories) &
   [public activity](https://github.com/rzagabe?tab=activity)
