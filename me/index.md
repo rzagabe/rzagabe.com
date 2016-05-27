@@ -11,6 +11,11 @@ clients; everything on <span style="font-weight:
 bold;">rzagabe.com</span> should be considered my own viewpoint or
 writing.
 
+My areas of interest include cloud infrastructures, large-scale
+distributed systems, system monitoring, application of machine
+learning and other related problems, and development of better and
+intelligent products.
+
 I also spend some time participating to events organized by different
 associations promoting education, science, skepticism, and
 self-awareness. Those contributions are, for the most part,
