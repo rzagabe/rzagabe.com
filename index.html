@@ -4,7 +4,12 @@ layout: default
 
 {% include header.html %}
 
+
 <div class="portfolio">
+  <p>
+    Software engineer, self-experimenter, and blogger.<br/>
+    created: {{ site.created_at }}; modified: {{ site.updated_at }}; status: in progress.
+  </p><hr/><br/>
     <h1>Current Projects:</h1>
     <ul>
         {% for websites in site.data.websites %}
