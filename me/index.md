@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A few words about me
+title: A Few Words About Me
 ---
 
 Hello, I'm Lucien Zagabe, a software engineer living in Lille.
