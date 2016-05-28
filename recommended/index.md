@@ -9,6 +9,7 @@ title: Recommended Readings
     * [Physics and Mathematics](#physics-and-mathematics)
     * [Philosophy](#philosophy)
     * [Psychology and Counseling](#psychology-and-counseling)
+    * [Religion and Religious Criticism](#religion-and-religious-criticism)
     * [Eastern Philosophy and Meditation](#eastern-philosophy-and-meditation)
     * [Computer Science and Software Engineering](#computer-science-and-software-engineering)
 
